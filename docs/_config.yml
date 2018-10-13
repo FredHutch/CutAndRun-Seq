@@ -8,11 +8,9 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
-theme: minimal-mistakes-jekyll
-
 remote_theme: "mmistakes/minimal-mistakes"
 
-minimal_mistakes_skin: "contrast"
+minimal_mistakes_skin: "dirt"
 
 # Site Settings
 locale: en-US
