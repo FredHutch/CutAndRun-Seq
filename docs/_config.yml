@@ -15,7 +15,7 @@ minimal_mistakes_skin: "dirt"
 # Site Settings
 locale: en-US
 title: "CutAndRun-Seq"
-description: "Fred Hutch Bioinformatics Interest Group"
+description: "CutAnRun-Seq technology and data analysis pipeline"
 url                      : https://fredhutch.github.io
 baseurl                  : "/CutAndRun-Seq"
 repository               : "FredHutch/CutAndRun-Seq"
