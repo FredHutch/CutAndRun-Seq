@@ -1,7 +1,22 @@
 main:
   - title: "About"
-    url: /index.html/
-  - title: "Technology"
-    url: /collection-archive/
+    url: /about/
   - title: "CookBook"
-    url: /collection-archive/
+    url: /cookbook/introduction/
+  - title: "Papers"
+    url: /papers/
+
+# documentation cookbook links
+cookbook:
+  - title: Technology
+    children:
+      - title: "Introduction"
+        url: /cookbook/introduction/
+      - title: "CUT&RUN Essential"
+        url: /cookbook/essential/
+  - title: Data Analysis Guidelines
+    children:
+      - title: "Pre-preprocessing"
+        url: /cookbook/preprocessing/
+      - title: "Peak Calling"
+        url: /cookbook/peakcalling/
