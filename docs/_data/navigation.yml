@@ -1,6 +1,6 @@
 main:
-  - title: "About"
-    url: /about/
+  - title: "Home"
+    url: /
   - title: "CookBook"
     url: /cookbook/introduction/
   - title: "Papers"
@@ -18,5 +18,7 @@ cookbook:
     children:
       - title: "Pre-preprocessing"
         url: /cookbook/preprocessing/
+      - title: "Spike-in Normalization"
+        url: /cookbook/normalization/
       - title: "Peak Calling"
         url: /cookbook/peakcalling/
